@@ -4,4 +4,4 @@ This repository includes one dataset:
 
 In order to find the actual tweets or their metadata, the tweet ids need to be hydrated.
 
-This work is supported by the [Africa Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)](http://acadic.org/)
+This work is supported by the [Africa Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)](http://acadic.org/).
